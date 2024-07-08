@@ -1,0 +1,25 @@
+.btns {
+  margin: 10px;
+  background-color: aquamarine;
+  font-size: 20px;
+  padding: 5px;
+}
+.btns:hover {
+  background-color: blue;
+}
+.list {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.tr th {
+  display: inline-flexbox;
+  padding: 30px;
+  justify-content: space-evenly;
+  align-items: center;
+  text-align: center;
+}
+.error {
+  color: red;
+  font-size: 20px;
+}

@@ -1,0 +1,13 @@
+.nav {
+  display: flex;
+  margin: 20px;
+  font-size: 30px;
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+  background-color: yellow;
+}
+.link {
+  text-decoration: none;
+  margin-right: 10px;
+}

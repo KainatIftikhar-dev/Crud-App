@@ -1,0 +1,29 @@
+.edit-img {
+  width: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-items: center;
+}
+.edit-paragraph {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.input {
+  align-items: center;
+  text-align: center;
+  margin: 10px;
+  padding-top: 20px;
+}
+.input {
+  justify-content: space-evenly;
+}
+.edit-btn {
+  font-size: 15px;
+  border-radius: 5px;
+  box-shadow: #2222;
+}
+.edit-btn:hover {
+  background-color: rgb(191, 219, 34);
+}

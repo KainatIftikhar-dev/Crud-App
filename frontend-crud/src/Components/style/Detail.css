@@ -1,0 +1,27 @@
+.paragraph {
+  color: "red";
+  font-size: 10px;
+}
+.img-load {
+  width: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.photo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.detail {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+.page {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}

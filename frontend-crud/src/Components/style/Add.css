@@ -1,0 +1,38 @@
+.heading {
+  text-align: center;
+}
+.form-input {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 20px;
+}
+.btn {
+  padding: 10px;
+  margin: 30px;
+  outline-style: groove;
+  color: black;
+}
+.load {
+  width: 600px;
+}
+
+.label {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 450px;
+}
+
+.btn:hover {
+  background: orangered;
+}
+.img {
+  width: 200px;
+  margin-right: 60px;
+  padding-right: 10px;
+}
+.para {
+  color: "red";
+  font-size: 20px;
+}
